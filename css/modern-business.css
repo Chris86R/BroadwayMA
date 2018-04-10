@@ -1,0 +1,106 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {background-color: #E8F9F1;
+	padding-top: 54px;
+}
+
+.logo img {
+	width: 100px;
+	height: 80px;
+	float: left;
+	margin-left: auto;
+	border-radius: 50%;
+}
+
+.navbar-brand {
+	float: left;
+	margin-left: auto;
+}
+
+.nav-link {
+	float: right;
+	margin-right: 30px;
+}
+
+@media (min-width: 992px) {
+	body {
+		padding-top: 56px;
+	}
+}
+
+.carousel-item {
+	height: 65vh;
+	min-height: 300px;
+	background: no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+
+.portfolio-item {
+	margin-bottom: 30px;
+}
+
+.card-body1 {
+	margin-left: -38px;
+}
+.bg-dark {
+    background-color: #56e39fba!important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #043640;
+	padding: 12px;
+
+}
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+	background-color:#A8B5DB;
+}
+.navbar-brand{
+	margin: auto;
+}
+.card-body1 {
+	margin-left: -38px;
+	clear: none
+}
+.card-body2{
+	text-align: left;
+	float: center;
+	margin
+}
+.col-lg-6{
+	
+	margin: ;
+	
+	
+}
+
+.estate_box{
+	background-color: #56e39fba;
+}
+.estate_box2
+{
+	background-color: #56e39fba;
+}
+.google_map{
+	background-color: #56e39fba;
+	padding: 5px;
+	
+}
+.property_view{
+	height:10px;
+}
+.row{
+	width: auto;
+	
+}
+.insta{
+	margin-right:;
+}
